@@ -1,0 +1,13 @@
+C:\Users\Danil\source\repos\EPAM_LAB_7\Mail\bin\Debug\netcoreapp3.1\Mail.exe
+C:\Users\Danil\source\repos\EPAM_LAB_7\Mail\bin\Debug\netcoreapp3.1\Mail.deps.json
+C:\Users\Danil\source\repos\EPAM_LAB_7\Mail\bin\Debug\netcoreapp3.1\Mail.runtimeconfig.json
+C:\Users\Danil\source\repos\EPAM_LAB_7\Mail\bin\Debug\netcoreapp3.1\Mail.runtimeconfig.dev.json
+C:\Users\Danil\source\repos\EPAM_LAB_7\Mail\bin\Debug\netcoreapp3.1\Mail.dll
+C:\Users\Danil\source\repos\EPAM_LAB_7\Mail\bin\Debug\netcoreapp3.1\Mail.pdb
+C:\Users\Danil\source\repos\EPAM_LAB_7\Mail\obj\Debug\netcoreapp3.1\Mail.csprojAssemblyReference.cache
+C:\Users\Danil\source\repos\EPAM_LAB_7\Mail\obj\Debug\netcoreapp3.1\Mail.AssemblyInfoInputs.cache
+C:\Users\Danil\source\repos\EPAM_LAB_7\Mail\obj\Debug\netcoreapp3.1\Mail.AssemblyInfo.cs
+C:\Users\Danil\source\repos\EPAM_LAB_7\Mail\obj\Debug\netcoreapp3.1\Mail.csproj.CoreCompileInputs.cache
+C:\Users\Danil\source\repos\EPAM_LAB_7\Mail\obj\Debug\netcoreapp3.1\Mail.dll
+C:\Users\Danil\source\repos\EPAM_LAB_7\Mail\obj\Debug\netcoreapp3.1\Mail.pdb
+C:\Users\Danil\source\repos\EPAM_LAB_7\Mail\obj\Debug\netcoreapp3.1\Mail.genruntimeconfig.cache

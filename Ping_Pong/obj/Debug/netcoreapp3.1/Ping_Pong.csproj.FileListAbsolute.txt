@@ -1,0 +1,13 @@
+C:\Users\Danil\source\repos\EPAM_LAB_7\Ping_Pong\bin\Debug\netcoreapp3.1\Ping_Pong.exe
+C:\Users\Danil\source\repos\EPAM_LAB_7\Ping_Pong\bin\Debug\netcoreapp3.1\Ping_Pong.deps.json
+C:\Users\Danil\source\repos\EPAM_LAB_7\Ping_Pong\bin\Debug\netcoreapp3.1\Ping_Pong.runtimeconfig.json
+C:\Users\Danil\source\repos\EPAM_LAB_7\Ping_Pong\bin\Debug\netcoreapp3.1\Ping_Pong.runtimeconfig.dev.json
+C:\Users\Danil\source\repos\EPAM_LAB_7\Ping_Pong\bin\Debug\netcoreapp3.1\Ping_Pong.dll
+C:\Users\Danil\source\repos\EPAM_LAB_7\Ping_Pong\bin\Debug\netcoreapp3.1\Ping_Pong.pdb
+C:\Users\Danil\source\repos\EPAM_LAB_7\Ping_Pong\obj\Debug\netcoreapp3.1\Ping_Pong.csprojAssemblyReference.cache
+C:\Users\Danil\source\repos\EPAM_LAB_7\Ping_Pong\obj\Debug\netcoreapp3.1\Ping_Pong.AssemblyInfoInputs.cache
+C:\Users\Danil\source\repos\EPAM_LAB_7\Ping_Pong\obj\Debug\netcoreapp3.1\Ping_Pong.AssemblyInfo.cs
+C:\Users\Danil\source\repos\EPAM_LAB_7\Ping_Pong\obj\Debug\netcoreapp3.1\Ping_Pong.csproj.CoreCompileInputs.cache
+C:\Users\Danil\source\repos\EPAM_LAB_7\Ping_Pong\obj\Debug\netcoreapp3.1\Ping_Pong.dll
+C:\Users\Danil\source\repos\EPAM_LAB_7\Ping_Pong\obj\Debug\netcoreapp3.1\Ping_Pong.pdb
+C:\Users\Danil\source\repos\EPAM_LAB_7\Ping_Pong\obj\Debug\netcoreapp3.1\Ping_Pong.genruntimeconfig.cache
